@@ -1,7 +1,7 @@
 require 'greeter'
 
 # Default is World
-name = "World"
+name = "Brad World"
 
 greeter = Greeter.new(name)
 puts greeter.greet
